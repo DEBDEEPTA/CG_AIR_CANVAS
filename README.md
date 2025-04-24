@@ -3,7 +3,7 @@ Computer vision project implemented with OpenCV
 
 Virtual Canvas is an application in which we can draw by capturing the gesture of hand and fingers through web camera.
 
-Draw your imagination by just waiving your finger in air. In this post we will learn to build an Air Canvas which can draw anything on it by just capturing the motion of a coloured marker with camera. Here a coloured object at tip of finger is used as the marker.
+Draw your imagination by just waiving your finger in air by just capturing the motion of a coloured marker with camera. Here a coloured object at tip of finger is used as the marker.
 
 We will be using the computer vision techniques of OpenCV to build this project. The preffered language is python due to its exhaustive libraries and easy to use syntax but understanding the basics it can be implemented in any OpenCV supported language.
 
